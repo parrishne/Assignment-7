@@ -33,3 +33,5 @@ results['Playoff Status'] = ['Playoffs' if x >= results['Playoff Prediction'].nl
 
 # Print the DataFrame
 print(results)
+
+print("Go Brewers!")
